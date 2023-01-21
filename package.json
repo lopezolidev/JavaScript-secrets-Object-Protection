@@ -1,0 +1,20 @@
+{
+  "name": "javascript-secrets-object-protection",
+  "version": "1.0.0",
+  "description": "A repository to practice OOP in JavaScript, using modern ES6+ syntax",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lopezolidev/JavaScript-secrets-Object-Protection.git"
+  },
+  "keywords": ["education", "OOP", "Javascript", "Platzi"],
+  "author": "Sergio Lopez <sergioawaken@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lopezolidev/JavaScript-secrets-Object-Protection/issues"
+  },
+  "homepage": "https://github.com/lopezolidev/JavaScript-secrets-Object-Protection#readme"
+}
